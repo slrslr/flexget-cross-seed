@@ -1,12 +1,12 @@
 Flexget Cross Seeding
 =====================
 
-This plugin can check your local files to see if it matches anything found by Flexget.
+This plugin can check your local files to see if it matches anything found by `Flexget <https://www.flexget.com/>`_.
 
 Installation
 ------------
 
-Download `cross-seed.py` and put it in the correct plugin folder. `Check out the official documentation for instructions on how to install plugins <https://www.flexget.com/Plugins#third-party-plugins>`_.
+Download `cross-seed.py` and put it in the correct `Flexget <https://www.flexget.com/>`_ plugin folder. `Check out the official documentation for instructions on how to install plugins <https://www.flexget.com/Plugins#third-party-plugins>`_.
 
 Usage
 -----
